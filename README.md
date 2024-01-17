@@ -3,7 +3,7 @@ This is an open data structures notes and code implementation, feel free to add 
 
 ## How the notebook is structured  
   **Data structure (folder)**  
-    -notes.md (file)  
+   -notes.md (file)  
     **assets (folder)**  
       **kind_of_asset (folder) _eg: images_**  
     **codes (folder)**  

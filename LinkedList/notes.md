@@ -5,7 +5,6 @@
 - Elements are not stored in contiguous memory locations (they are not stored in adjacent locations in memory)
 - Elements in a linked list are linked using pointers
 - In short, a linked list consists of nodes where each node contains a data field and reference link to the next node in the list.
-
 ![singly linked list](assets/images/singlylinkedlist.png)
 
 ## Types of Linked Lists
